@@ -1,0 +1,44 @@
+{
+  "page": {
+    "title": "Products",
+    "heading": "Product Lineup",
+    "subtitle": "Discover innovative robot solutions born from AI technology and precision engineering"
+  },
+  "filter": {
+    "all": "All",
+    "pool": "Pool Robots",
+    "wall": "Wall Robots",
+    "edu": "Educational Robots"
+  },
+  "card": {
+    "learnMore": "Learn More"
+  },
+  "empty": "No products found in this category.",
+  "detail": {
+    "features": "Key Features",
+    "specs": "Technical Specifications",
+    "gallery": "Image Gallery",
+    "related": "Related Products",
+    "ctaBanner": {
+      "heading": "Purchase & Technical Inquiries",
+      "subheading": "Our expert engineers will guide you to the optimal solution.",
+      "cta": "Contact Us"
+    },
+    "akerfSection": {
+      "title": "Negative Pressure Adhesion Mechanism",
+      "description": "Learn about the principles of Akerf's core negative pressure adhesion technology.",
+      "step1": "High-speed impeller rotation generates negative pressure",
+      "step2": "Pressure drop inside chamber creates surface adhesion",
+      "step3": "Sealing skirt maintains airtightness during movement"
+    },
+    "hiwonderSection": {
+      "title": "ROS2 Architecture",
+      "description": "Learn about HiWonder EDU's ROS2 node structure and curriculum.",
+      "curriculumTitle": "Step-by-Step Learning Curriculum",
+      "level1": "Level 1 — Python Basics & Robot Control",
+      "level2": "Level 2 — ROS2 Nodes & Topic Communication",
+      "level3": "Level 3 — SLAM & Autonomous Navigation",
+      "level4": "Level 4 — Deep Learning YOLO Object Detection"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "page": {
+    "title": "제품",
+    "heading": "제품 라인업",
+    "subtitle": "AI 기술과 정밀 엔지니어링으로 탄생한 혁신적인 로봇 솔루션을 만나보세요"
+  },
+  "filter": {
+    "all": "전체",
+    "pool": "수영장 로봇",
+    "wall": "벽면 로봇",
+    "edu": "교육용 로봇"
+  },
+  "card": {
+    "learnMore": "자세히 보기"
+  },
+  "empty": "해당 카테고리의 제품이 없습니다.",
+  "detail": {
+    "features": "주요 특징",
+    "specs": "기술 사양",
+    "gallery": "이미지 갤러리",
+    "related": "관련 제품",
+    "ctaBanner": {
+      "heading": "구매 상담 및 기술 문의",
+      "subheading": "전문 엔지니어가 최적의 솔루션을 안내해 드립니다.",
+      "cta": "문의하기"
+    },
+    "akerfSection": {
+      "title": "음압 흡착 메커니즘",
+      "description": "Akerf의 핵심인 음압 흡착 기술의 원리를 알아보세요.",
+      "step1": "임펠러 고속 회전으로 음압 생성",
+      "step2": "챔버 내부 압력 강하로 표면 흡착",
+      "step3": "밀봉 스커트가 기밀 유지하며 이동"
+    },
+    "hiwonderSection": {
+      "title": "ROS2 아키텍처",
+      "description": "HiWonder EDU의 ROS2 노드 구조와 커리큘럼을 알아보세요.",
+      "curriculumTitle": "단계별 학습 커리큘럼",
+      "level1": "Level 1 — Python 기초 & 로봇 제어",
+      "level2": "Level 2 — ROS2 노드 & 토픽 통신",
+      "level3": "Level 3 — SLAM & 자율 내비게이션",
+      "level4": "Level 4 — 딥러닝 YOLO 물체 감지"
+    }
+  }
+}

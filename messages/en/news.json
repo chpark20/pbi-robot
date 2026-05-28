@@ -1,0 +1,27 @@
+{
+  "page": {
+    "title": "News",
+    "heading": "News",
+    "subheading": "Stay up to date with the latest from PBI Robot"
+  },
+  "filter": {
+    "all": "All",
+    "press": "Press Release",
+    "award": "Awards",
+    "exhibition": "Exhibition"
+  },
+  "empty": "No news available.",
+  "readMore": "Read More",
+  "backToList": "← Back to News",
+  "share": {
+    "button": "Share",
+    "copy": "Copy Link",
+    "copied": "Link copied!"
+  },
+  "related": {
+    "title": "Related News"
+  },
+  "detail": {
+    "publishedOn": "Published"
+  }
+}

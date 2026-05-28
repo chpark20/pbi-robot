@@ -1,0 +1,40 @@
+{
+  "page": {
+    "title": "About",
+    "hero": {
+      "heading": "Robotics Technology That Builds the Future",
+      "subheading": "PBI Robot pushes the boundaries of AI and robotics to create technology that connects people and spaces."
+    }
+  },
+  "vision": {
+    "title": "Vision & Mission",
+    "vision": {
+      "label": "Vision",
+      "title": "A World Where Every Space Manages Itself",
+      "description": "We build a future where AI robots automate cleaning and maintenance, freeing people to focus on more valuable work."
+    },
+    "mission": {
+      "label": "Mission",
+      "title": "Delivering Trustworthy Robot Solutions",
+      "description": "Combining precision engineering and artificial intelligence to deliver proven robot solutions across industry, education, and daily life."
+    }
+  },
+  "values": {
+    "title": "Core Values"
+  },
+  "history": {
+    "title": "Company History"
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "World-class experts drive innovation at PBI Robot"
+  },
+  "location": {
+    "title": "Location",
+    "address": "8F, PBI Robot Tower, 123 Teheran-ro, Gangnam-gu, Seoul, Korea",
+    "phone": "+82-2-1234-5678",
+    "email": "contact@pbirobot.com",
+    "hours": "Mon–Fri 09:00–18:00 (Closed weekends & holidays)",
+    "mapTitle": "Map"
+  }
+}

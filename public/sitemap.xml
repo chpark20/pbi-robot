@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ═══════════════════════════════════════
+       Home
+  ═══════════════════════════════════════ -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════
+       About
+  ═══════════════════════════════════════ -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/about/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/about/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/about/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════
+       Products list
+  ═══════════════════════════════════════ -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Products — aquasense-2-pro -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/aquasense-2-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/aquasense-2-pro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/aquasense-2-pro/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/aquasense-2-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/aquasense-2-pro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/aquasense-2-pro/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products — aquasense-2-ultra -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/aquasense-2-ultra/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/aquasense-2-ultra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/aquasense-2-ultra/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/aquasense-2-ultra/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/aquasense-2-ultra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/aquasense-2-ultra/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products — sora-70 -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/sora-70/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/sora-70/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/sora-70/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/sora-70/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/sora-70/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/sora-70/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products — sora-30 -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/sora-30/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/sora-30/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/sora-30/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/sora-30/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/sora-30/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/sora-30/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products — sora-10 -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/sora-10/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/sora-10/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/sora-10/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/sora-10/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/sora-10/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/sora-10/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products — akerf -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/akerf/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/akerf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/akerf/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/akerf/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/akerf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/akerf/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products — hiwonder -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/products/hiwonder/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/hiwonder/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/hiwonder/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/products/hiwonder/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/products/hiwonder/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/products/hiwonder/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════
+       News list
+  ═══════════════════════════════════════ -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- News — aquasense-2-ultra-launch -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/aquasense-2-ultra-launch/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/aquasense-2-ultra-launch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/aquasense-2-ultra-launch/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/aquasense-2-ultra-launch/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/aquasense-2-ultra-launch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/aquasense-2-ultra-launch/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — ces-2026-award -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/ces-2026-award/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/ces-2026-award/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/ces-2026-award/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/ces-2026-award/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/ces-2026-award/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/ces-2026-award/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — hiwonder-curriculum-v2 -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/hiwonder-curriculum-v2/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/hiwonder-curriculum-v2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/hiwonder-curriculum-v2/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/hiwonder-curriculum-v2/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/hiwonder-curriculum-v2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/hiwonder-curriculum-v2/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — series-b-funding -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/series-b-funding/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/series-b-funding/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/series-b-funding/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/series-b-funding/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/series-b-funding/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/series-b-funding/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — korea-robot-expo-2025 -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/korea-robot-expo-2025/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/korea-robot-expo-2025/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/korea-robot-expo-2025/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/korea-robot-expo-2025/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/korea-robot-expo-2025/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/korea-robot-expo-2025/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — iso-cert-2025 -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/iso-cert-2025/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/iso-cert-2025/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/iso-cert-2025/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/iso-cert-2025/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/iso-cert-2025/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/iso-cert-2025/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — sora-series-launch -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/sora-series-launch/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/sora-series-launch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/sora-series-launch/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/sora-series-launch/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/sora-series-launch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/sora-series-launch/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News — smart-city-mou -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/news/smart-city-mou/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/smart-city-mou/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/smart-city-mou/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/news/smart-city-mou/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/news/smart-city-mou/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/news/smart-city-mou/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════
+       FAQ
+  ═══════════════════════════════════════ -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/faq/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/faq/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════
+       Contact
+  ═══════════════════════════════════════ -->
+  <url>
+    <loc>https://pbikorea.github.io/ko/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/contact/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pbikorea.github.io/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://pbikorea.github.io/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pbikorea.github.io/en/contact/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

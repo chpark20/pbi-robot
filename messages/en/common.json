@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "news": "News",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "footer": {
+    "company": "PBI Robot",
+    "tagline": "Building the future with innovative robot solutions.",
+    "address": "123 Teheran-ro, Gangnam-gu, Seoul, Korea",
+    "phone": "+82-2-1234-5678",
+    "email": "info@pbirobot.com",
+    "copyright": "© {year} PBI Robot. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "sitemap": "Sitemap"
+    }
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "viewAll": "View All",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "back": "Back",
+    "download": "Download",
+    "readMore": "Read More"
+  },
+  "meta": {
+    "siteName": "PBI Robot",
+    "defaultTitle": "PBI Robot — Innovative Robot Solutions",
+    "defaultDescription": "PBI Robot leads the industry in pool cleaning robots, wall cleaning robots, and educational robots.",
+    "ogLocale": "en_US"
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "hero": {
+        "heading": "Robot Solutions That Move the Future",
+        "subheading": "Build a smarter tomorrow with PBI Robot.",
+        "cta": "Explore Products"
+      }
+    },
+    "about": {
+      "title": "About",
+      "heading": "About PBI Robot",
+      "description": "PBI Robot leads the future of industry with innovative robotics technology."
+    },
+    "products": {
+      "title": "Products",
+      "heading": "Product Lineup",
+      "categories": {
+        "all": "All",
+        "pool": "Pool Robots",
+        "wall": "Wall Cleaning Robots",
+        "edu": "Educational Robots"
+      }
+    },
+    "news": {
+      "title": "News",
+      "heading": "News",
+      "categories": {
+        "all": "All",
+        "press": "Press Release",
+        "award": "Awards",
+        "exhibition": "Exhibition"
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "heading": "Frequently Asked Questions",
+      "searchPlaceholder": "Search questions",
+      "noResults": "No results found."
+    },
+    "contact": {
+      "title": "Contact",
+      "heading": "Contact Us",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "phone": "Phone",
+        "subject": "Subject",
+        "message": "Message",
+        "namePlaceholder": "John Doe",
+        "emailPlaceholder": "example@email.com",
+        "companyPlaceholder": "Enter your company name",
+        "phonePlaceholder": "+1-000-000-0000",
+        "subjectPlaceholder": "Enter the subject",
+        "messagePlaceholder": "Enter your message",
+        "submit": "Send Message",
+        "success": "Your message has been sent successfully.",
+        "error": "An error occurred. Please try again."
+      }
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred.",
+    "notFound": "Page not found.",
+    "language": "Language",
+    "korean": "한국어",
+    "english": "English"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "home": "홈",
+    "about": "회사소개",
+    "products": "제품",
+    "news": "뉴스",
+    "faq": "자주 묻는 질문",
+    "contact": "문의하기"
+  },
+  "footer": {
+    "company": "PBI Robot",
+    "tagline": "혁신적인 로봇 솔루션으로 미래를 만들어갑니다.",
+    "address": "서울특별시 강남구 테헤란로 123",
+    "phone": "02-1234-5678",
+    "email": "info@pbirobot.com",
+    "copyright": "© {year} PBI Robot. All rights reserved.",
+    "links": {
+      "privacy": "개인정보처리방침",
+      "terms": "이용약관",
+      "sitemap": "사이트맵"
+    }
+  },
+  "buttons": {
+    "learnMore": "자세히 보기",
+    "contactUs": "문의하기",
+    "viewAll": "전체 보기",
+    "submit": "제출하기",
+    "cancel": "취소",
+    "back": "뒤로가기",
+    "download": "다운로드",
+    "readMore": "더 읽기"
+  },
+  "meta": {
+    "siteName": "PBI Robot",
+    "defaultTitle": "PBI Robot — 혁신적인 로봇 솔루션",
+    "defaultDescription": "PBI Robot은 수영장 청소 로봇, 벽면 청소 로봇, 교육용 로봇을 선도하는 기업입니다.",
+    "ogLocale": "ko_KR"
+  },
+  "pages": {
+    "home": {
+      "title": "홈",
+      "hero": {
+        "heading": "미래를 움직이는 로봇 솔루션",
+        "subheading": "PBI Robot과 함께 더 스마트한 내일을 만들어보세요.",
+        "cta": "제품 살펴보기"
+      }
+    },
+    "about": {
+      "title": "회사소개",
+      "heading": "PBI Robot 소개",
+      "description": "PBI Robot은 혁신적인 로봇 기술로 산업의 미래를 이끌어갑니다."
+    },
+    "products": {
+      "title": "제품",
+      "heading": "제품 라인업",
+      "categories": {
+        "all": "전체",
+        "pool": "수영장 로봇",
+        "wall": "벽면 청소 로봇",
+        "edu": "교육용 로봇"
+      }
+    },
+    "news": {
+      "title": "소식",
+      "heading": "소식",
+      "categories": {
+        "all": "전체",
+        "press": "보도자료",
+        "award": "수상·인증",
+        "exhibition": "전시·행사"
+      }
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "heading": "FAQ",
+      "searchPlaceholder": "질문을 검색하세요",
+      "noResults": "검색 결과가 없습니다."
+    },
+    "contact": {
+      "title": "문의하기",
+      "heading": "문의하기",
+      "form": {
+        "name": "이름",
+        "email": "이메일",
+        "company": "회사명",
+        "phone": "연락처",
+        "subject": "제목",
+        "message": "메시지",
+        "namePlaceholder": "홍길동",
+        "emailPlaceholder": "example@email.com",
+        "companyPlaceholder": "회사명을 입력하세요",
+        "phonePlaceholder": "010-0000-0000",
+        "subjectPlaceholder": "문의 제목을 입력하세요",
+        "messagePlaceholder": "문의 내용을 입력하세요",
+        "submit": "문의 보내기",
+        "success": "문의가 성공적으로 접수되었습니다.",
+        "error": "문의 접수 중 오류가 발생했습니다. 다시 시도해주세요."
+      }
+    }
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다.",
+    "notFound": "페이지를 찾을 수 없습니다.",
+    "language": "언어",
+    "korean": "한국어",
+    "english": "English"
+  }
+}

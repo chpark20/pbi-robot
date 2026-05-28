@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "heading1": "The AI-Powered Future,",
+    "heading2": "Built by PBI Robot",
+    "typingText1": "World-Class AI Robots",
+    "typingText2": "Smart Cleaning Solutions",
+    "typingText3": "Technology That Leads Tomorrow",
+    "cta1": "Explore Products",
+    "cta2": "Contact Us",
+    "scrollHint": "Scroll"
+  },
+  "productsHighlight": {
+    "title": "Innovative Robot Solutions",
+    "subtitle": "Leading technology in three core fields",
+    "pool": {
+      "title": "AI Pool Cleaning Robots",
+      "description": "Perfect pool cleaning with deep learning vision. The AquaSense and SORA series cover pools of all sizes.",
+      "cta": "Learn More"
+    },
+    "wall": {
+      "title": "Wall Cleaning Robots",
+      "description": "From high-rise facades to small buildings. The SORA series and negative-pressure Akerf keep every wall clean.",
+      "cta": "Learn More"
+    },
+    "edu": {
+      "title": "Educational Robots",
+      "description": "HiWonder EDU, powered by ROS2 and Jetson Nano, trains the next generation of robot engineers.",
+      "cta": "Learn More"
+    }
+  },
+  "stats": {
+    "title": "PBI Robot by the Numbers",
+    "subtitle": "A decade of innovation",
+    "patents": { "label": "Registered Patents", "suffix": "+" },
+    "units": { "label": "Units Sold", "suffix": "+" },
+    "awards": { "label": "Awards Won", "suffix": "" },
+    "since": { "label": "Founded", "suffix": "" },
+    "partnerTitle": "Global Partners & Certifications"
+  },
+  "latestNews": {
+    "title": "Latest News",
+    "subtitle": "Discover the latest stories from PBI Robot",
+    "viewAll": "View All News"
+  }
+}

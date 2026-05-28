@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "heading1": "AI가 움직이는 미래,",
+    "heading2": "PBI Robot이 만듭니다",
+    "typingText1": "세계 최고의 AI 로봇",
+    "typingText2": "스마트한 클리닝 솔루션",
+    "typingText3": "미래를 선도하는 기술",
+    "cta1": "제품 보기",
+    "cta2": "문의하기",
+    "scrollHint": "스크롤"
+  },
+  "productsHighlight": {
+    "title": "혁신적인 로봇 솔루션",
+    "subtitle": "세 가지 핵심 분야에서 최고의 기술을 제공합니다",
+    "pool": {
+      "title": "AI 수영장 청소 로봇",
+      "description": "딥러닝 비전으로 수영장을 완벽 청소. AquaSense 시리즈와 SORA 시리즈로 모든 규모의 풀을 커버합니다.",
+      "cta": "자세히 보기"
+    },
+    "wall": {
+      "title": "벽면 청소 로봇",
+      "description": "고층 파사드부터 소형 건물까지. SORA 시리즈와 음압 흡착 Akerf로 모든 벽을 청결하게.",
+      "cta": "자세히 보기"
+    },
+    "edu": {
+      "title": "교육용 로봇",
+      "description": "ROS2 + Jetson Nano 기반 HiWonder EDU로 차세대 로봇 엔지니어를 양성합니다.",
+      "cta": "자세히 보기"
+    }
+  },
+  "stats": {
+    "title": "숫자로 보는 PBI Robot",
+    "subtitle": "10년의 혁신이 만들어낸 성과",
+    "patents": { "label": "등록 특허", "suffix": "건" },
+    "units": { "label": "누적 판매", "suffix": "대+" },
+    "awards": { "label": "수상 실적", "suffix": "회" },
+    "since": { "label": "설립 연도", "suffix": "" },
+    "partnerTitle": "글로벌 파트너 & 인증"
+  },
+  "latestNews": {
+    "title": "최신 소식",
+    "subtitle": "PBI Robot의 새로운 이야기를 만나보세요",
+    "viewAll": "전체 소식 보기"
+  }
+}

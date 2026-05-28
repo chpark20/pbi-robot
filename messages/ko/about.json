@@ -1,0 +1,40 @@
+{
+  "page": {
+    "title": "회사소개",
+    "hero": {
+      "heading": "미래를 만드는 로봇 기술",
+      "subheading": "PBI Robot은 AI와 로봇공학의 경계를 넓혀 사람과 공간을 연결하는 기술을 만들어갑니다."
+    }
+  },
+  "vision": {
+    "title": "비전 & 미션",
+    "vision": {
+      "label": "비전",
+      "title": "모든 공간을 스스로 관리하는 세상",
+      "description": "AI 로봇이 청소와 유지보수를 자동화하여 사람이 더 가치 있는 일에 집중할 수 있는 미래를 만들어갑니다."
+    },
+    "mission": {
+      "label": "미션",
+      "title": "신뢰할 수 있는 로봇 솔루션 제공",
+      "description": "정밀 엔지니어링과 인공지능의 결합으로 산업·교육·일상 모든 분야에서 검증된 로봇 솔루션을 제공합니다."
+    }
+  },
+  "values": {
+    "title": "핵심 가치"
+  },
+  "history": {
+    "title": "회사 연혁"
+  },
+  "team": {
+    "title": "주요 인력",
+    "subtitle": "최고의 전문가들이 PBI Robot의 혁신을 이끌어갑니다"
+  },
+  "location": {
+    "title": "오시는 길",
+    "address": "서울특별시 강남구 테헤란로 123, PBI Robot 타워 8층",
+    "phone": "02-1234-5678",
+    "email": "contact@pbirobot.com",
+    "hours": "월–금 09:00–18:00 (주말·공휴일 휴무)",
+    "mapTitle": "지도"
+  }
+}

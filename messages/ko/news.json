@@ -1,0 +1,27 @@
+{
+  "page": {
+    "title": "소식",
+    "heading": "소식",
+    "subheading": "PBI Robot의 최신 소식을 확인하세요"
+  },
+  "filter": {
+    "all": "전체",
+    "press": "보도자료",
+    "award": "수상·인증",
+    "exhibition": "전시·행사"
+  },
+  "empty": "등록된 소식이 없습니다.",
+  "readMore": "자세히 보기",
+  "backToList": "← 소식 목록",
+  "share": {
+    "button": "공유",
+    "copy": "링크 복사",
+    "copied": "링크가 복사되었습니다!"
+  },
+  "related": {
+    "title": "관련 소식"
+  },
+  "detail": {
+    "publishedOn": "발행"
+  }
+}
