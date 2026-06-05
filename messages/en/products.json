@@ -7,8 +7,16 @@
   "filter": {
     "all": "All",
     "pool": "Pool Robots",
-    "wall": "Wall Robots",
+    "wall": "Negative Pressure Wall Service Robot",
     "edu": "Educational Robots"
+  },
+  "category": {
+    "wall": "Negative Pressure Wall Service Robot"
+  },
+  "product": {
+    "akf-crc1": {
+      "name": "AKF-CRC1"
+    }
   },
   "card": {
     "learnMore": "Learn More"

@@ -10,10 +10,23 @@
   "footer": {
     "company": "PBI Robot",
     "tagline": "혁신적인 로봇 솔루션으로 미래를 만들어갑니다.",
-    "address": "서울특별시 강남구 테헤란로 123",
-    "phone": "02-1234-5678",
-    "email": "info@pbirobot.com",
+    "hqLabel": "본사",
+    "branchLabel": "지사",
+    "hqAddress": "충남 아산시 배방읍 호서로 79번길, 벤처창업기업관 212호 (호서대학교)",
+    "branchAddress": "충남 천안시 서북구 불당1로 48, 충남창업마루나비 514호",
+    "phone": "010-9975-2648",
+    "consultLabel": "상담·시연 신청",
+    "email": "pbi240426@gmail.com",
     "copyright": "© {year} PBI Robot. All rights reserved.",
+    "snsTitle": "SNS 채널",
+    "sns": {
+      "kakaoName": "카카오톡",
+      "kakaoAlt": "카카오톡 QR코드",
+      "wechatName": "위챗",
+      "wechatAlt": "위챗 QR코드",
+      "youtubeName": "유튜브",
+      "youtubeAlt": "유튜브 QR코드"
+    },
     "links": {
       "privacy": "개인정보처리방침",
       "terms": "이용약관",

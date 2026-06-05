@@ -7,8 +7,16 @@
   "filter": {
     "all": "전체",
     "pool": "수영장 로봇",
-    "wall": "벽면 로봇",
+    "wall": "음압 벽면 서비스 로봇",
     "edu": "교육용 로봇"
+  },
+  "category": {
+    "wall": "음압 벽면 서비스 로봇"
+  },
+  "product": {
+    "akf-crc1": {
+      "name": "AKF-CRC1"
+    }
   },
   "card": {
     "learnMore": "자세히 보기"

@@ -10,10 +10,23 @@
   "footer": {
     "company": "PBI Robot",
     "tagline": "Building the future with innovative robot solutions.",
-    "address": "123 Teheran-ro, Gangnam-gu, Seoul, Korea",
-    "phone": "+82-2-1234-5678",
-    "email": "info@pbirobot.com",
+    "hqLabel": "HQ",
+    "branchLabel": "Branch",
+    "hqAddress": "79-gil Hoseo-ro, Baebang-eup, Asan-si, Chungnam (Hoseo Univ. Venture Bldg. #212)",
+    "branchAddress": "#514, Chungnam Startup Marunabi, 48 Buldang 1-ro, Seobuk-gu, Cheonan-si",
+    "phone": "010-9975-2648",
+    "consultLabel": "Inquiry & Demo",
+    "email": "pbi240426@gmail.com",
     "copyright": "© {year} PBI Robot. All rights reserved.",
+    "snsTitle": "Social Channels",
+    "sns": {
+      "kakaoName": "KakaoTalk",
+      "kakaoAlt": "KakaoTalk QR Code",
+      "wechatName": "WeChat",
+      "wechatAlt": "WeChat QR Code",
+      "youtubeName": "YouTube",
+      "youtubeAlt": "YouTube QR Code"
+    },
     "links": {
       "privacy": "Privacy Policy",
       "terms": "Terms of Service",

@@ -360,7 +360,7 @@ const rawProducts: RawProduct[] = [
     id: "akerf",
     slug: "akerf",
     category: "wall",
-    name: { ko: "Akerf", en: "Akerf" },
+    name: { ko: "AKF-CRC1", en: "AKF-CRC1" },
     tagline: {
       ko: "음압 흡착으로 어떤 표면도 정복",
       en: "Conquering Any Surface with Negative Pressure",

@@ -5,10 +5,8 @@ import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { ChevronDown, ArrowRight } from "lucide-react";
 import { Link } from "@/i18n/navigation";
-import Button from "@/components/ui/Button";
 import Card from "@/components/ui/Card";
 import Badge from "@/components/ui/Badge";
-import CountUp from "@/components/sections/CountUp";
 import MarqueeSlider from "@/components/sections/MarqueeSlider";
 import { useInView } from "@/hooks/useInView";
 import { staggerContainer, fadeInUp, fadeIn } from "@/lib/animations";
@@ -125,26 +123,6 @@ export default function HomeClient({ locale, products, news }: HomeClientProps) 
               <span className="animate-pulse text-cyan-400">|</span>
             </motion.p>
 
-            {/* CTA buttons */}
-            <motion.div
-              variants={fadeInUp}
-              className="flex flex-col sm:flex-row gap-4 mt-2"
-            >
-              <Link href="/products">
-                <Button variant="primary" size="lg" className="bg-white text-primary hover:bg-white/90">
-                  {t("hero.cta1")}
-                </Button>
-              </Link>
-              <Link href="/contact">
-                <Button
-                  variant="outline"
-                  size="lg"
-                  className="border-white/60 text-white hover:bg-white/10 hover:border-white"
-                >
-                  {t("hero.cta2")}
-                </Button>
-              </Link>
-            </motion.div>
           </motion.div>
         </div>
 
@@ -168,8 +146,8 @@ export default function HomeClient({ locale, products, news }: HomeClientProps) 
       {/* ═══════════ PRODUCT HIGHLIGHTS ═══════════ */}
       <ProductHighlightSection products={products} locale={locale} />
 
-      {/* ═══════════ STATS ═══════════ */}
-      <StatsSection />
+      {/* ═══════════ PARTNER & CERTIFICATIONS ═══════════ */}
+      <PartnerSection />
 
       {/* ═══════════ LATEST NEWS ═══════════ */}
       <LatestNewsSection news={news} locale={locale} />
@@ -192,13 +170,13 @@ function ProductHighlightSection({
   const isInView = useInView(sectionRef, { once: true, threshold: 0.15 });
 
   const poolProduct = products.find((p) => p.category === "pool");
-  const wallProduct = products.find((p) => p.category === "wall");
+  const wallProduct = products.find((p) => p.slug === "akerf");
   const eduProduct = products.find((p) => p.category === "edu");
 
   const cards = [
-    { key: "pool" as const, product: poolProduct, href: `/products?cat=pool` },
-    { key: "wall" as const, product: wallProduct, href: `/products?cat=wall` },
-    { key: "edu" as const, product: eduProduct, href: `/products?cat=edu` },
+    { key: "pool" as const, product: poolProduct, href: `/${locale}/products?category=pool` },
+    { key: "wall" as const, product: wallProduct, href: `/${locale}/products/akerf` },
+    { key: "edu" as const, product: eduProduct, href: `/${locale}/products/hiwonder` },
   ];
 
   return (
@@ -236,7 +214,7 @@ function ProductHighlightSection({
             const meta = CATEGORY_META[key];
             return (
               <motion.div key={key} variants={fadeInUp}>
-                <Link href={href} className="group block">
+                <a href={href} className="group block">
                   <div className="rounded-lg overflow-hidden border border-gray-200 bg-bg-card hover:shadow-lg transition-shadow duration-300">
                     {/* Image placeholder with gradient */}
                     <div
@@ -272,7 +250,7 @@ function ProductHighlightSection({
                       </span>
                     </div>
                   </div>
-                </Link>
+                </a>
               </motion.div>
             );
           })}
@@ -283,66 +261,16 @@ function ProductHighlightSection({
 }
 
 // ─────────────────────────────────────────────────────────────
-//  Stats Section
+//  Partner Section
 // ─────────────────────────────────────────────────────────────
-const STATS = [
-  { key: "patents", end: 47, prefix: "", suffix: "+", icon: "🏆" },
-  { key: "units", end: 1200, prefix: "", suffix: "+", icon: "🤖" },
-  { key: "awards", end: 12, prefix: "", suffix: "", icon: "⭐" },
-  { key: "since", end: 2015, prefix: "", suffix: "", icon: "📅" },
-];
-
-function StatsSection() {
+function PartnerSection() {
   const t = useTranslations("home.stats");
   const sectionRef = useRef<HTMLElement>(null);
   const isInView = useInView(sectionRef, { once: true, threshold: 0.2 });
 
   return (
-    <section ref={sectionRef} className="py-20 bg-primary text-white">
+    <section ref={sectionRef} className="py-12 bg-primary text-white">
       <div className="container">
-        {/* Heading */}
-        <motion.div
-          initial="hidden"
-          animate={isInView ? "visible" : "hidden"}
-          variants={staggerContainer}
-          className="text-center mb-14"
-        >
-          <motion.h2
-            variants={fadeInUp}
-            className="text-3xl md:text-4xl font-bold mb-3"
-          >
-            {t("title")}
-          </motion.h2>
-          <motion.p variants={fadeInUp} className="text-white/70 text-lg">
-            {t("subtitle")}
-          </motion.p>
-        </motion.div>
-
-        {/* Counter cards */}
-        <motion.div
-          initial="hidden"
-          animate={isInView ? "visible" : "hidden"}
-          variants={staggerContainer}
-          className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-16"
-        >
-          {STATS.map((s) => (
-            <motion.div
-              key={s.key}
-              variants={fadeInUp}
-              className="bg-white/10 rounded-lg p-6 text-center"
-            >
-              <div className="text-3xl mb-2">{s.icon}</div>
-              <div className="text-4xl font-bold mb-1">
-                <CountUp end={s.end} prefix={s.prefix} suffix={s.suffix} />
-              </div>
-              <div className="text-white/70 text-sm font-medium">
-                {t(`${s.key}.label`)}
-              </div>
-            </motion.div>
-          ))}
-        </motion.div>
-
-        {/* Partner marquee */}
         <motion.div
           initial="hidden"
           animate={isInView ? "visible" : "hidden"}
